@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPFXMUIdatatable", "SPFXMUIdatatable\SPFXMUIdatatable.csproj", "{506B9203-78C0-4696-ABEB-81FC94ECEA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506B9203-78C0-4696-ABEB-81FC94ECEA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506B9203-78C0-4696-ABEB-81FC94ECEA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506B9203-78C0-4696-ABEB-81FC94ECEA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506B9203-78C0-4696-ABEB-81FC94ECEA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4B94017-904D-4511-8A64-BCCB94163C12}
+	EndGlobalSection
+EndGlobal
